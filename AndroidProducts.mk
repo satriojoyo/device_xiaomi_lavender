@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_lavender.mk
+    $(LOCAL_DIR)/aosip_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_lavender-user \
-    revengeos_lavender-userdebug \
-    revengeos_lavender-eng
+    aosip_lavender-user \
+    aosip_lavender-userdebug \
+    aosip_lavender-eng
